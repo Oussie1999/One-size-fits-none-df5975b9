@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+	
+}
+h2 {
+	color: blue;
+}
+h4 {
+	color: purple;
+}
+h4 {
+	font-size: 1.2em; 
+}
+body { 
+background-color: hsla(50, 33%, 25%, .75);
+}
+img {
+	width: 300px;
+}
